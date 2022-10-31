@@ -16,3 +16,9 @@ lassie = Dog.new
 lassie.name = "Lassie"
 
 lassie.name
+
+odie = Dog.new
+odie.name = "Odie"
+
+# call the Dog#name method
+puts odie.name
